@@ -18,3 +18,4 @@
 1. NBA 球员top50数据--文件：spi_NBA.py
 2. 某宝商品数据自动化采集--文件：spi_Taobao.py
 3. bilibili视频信息自动化爬取--文件：spi_bilibili_rsc.py
+4. JD商品评论自动化爬取--文件：spi_JD_comments.py
