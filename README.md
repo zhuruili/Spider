@@ -14,7 +14,7 @@ This repository records the simple code snippets I coded during my learning of w
 
 - [**SimPrograms**](https://github.com/zhuruili/Spider/tree/main/SimPrograms)  
   记录自己学习爬虫所留下的简单程序，该文件夹下的爬虫程序的特点是'简单'，基本上都是一个Python文件直接运行即可。
-- [**Spi_DataSave**](https://github.com/zhuruili/Spider/tree/main/Spi_DataSave)
+- [**Spi_DataSave**](https://github.com/zhuruili/Spider/tree/main/Spi_DataSave)  
   保存部分爬取的内容，体量比较小的数据集我会同步到仓库，如有需要可以直接下载。
 
 ## 内容目录
@@ -26,6 +26,10 @@ This repository records the simple code snippets I coded during my learning of w
 - 某宝商品数据自动化采集--文件：spi_Taobao.py
 - 哔哩哔哩视频信息自动化爬取--文件：spi_bilibili_rsc.py
 - JD商品评论自动化爬取--文件：spi_JD_comments.py
+
+### DataSaved
+
+仓库中所保存的程序爬取所得到的数据集可能会随时变动，因此就不在此处列表展示了，感兴趣的话可以直接到存放数据集的文件夹下查看其具体内容。
 
 ---
 
