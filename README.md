@@ -12,17 +12,17 @@ This repository records the simple code snippets I coded during my learning of w
 
 ## 相关文件说明
 
-- [**SimPrograms**](SimPrograms)  
+- [**SimPrograms**](https://github.com/zhuruili/Spider/tree/main/SimPrograms)  
   记录自己学习爬虫所留下的简单程序，该文件夹下的爬虫程序的特点是'简单'，基本上都是一个Python文件直接运行即可。
-- [**Spi_DataSave**](Spi_DataSave)
+- [**Spi_DataSave**](https://github.com/zhuruili/Spider/tree/main/Spi_DataSave)
   保存部分爬取的内容，体量比较小的数据集我会同步到仓库，如有需要可以直接下载。
 
 ## 内容目录
 
 ### SimPrograms
 
-- [NBA球员top50](NBA)  
-  NBA 球员top50数据--文件：spi_NBA.py。基于request获取数据，使用xpath表达式提取数据。适合新手学习。
+- [NBA球员top50](https://github.com/zhuruili/Spider/blob/main/SimPrograms/spi_NBA.py)  
+  NBA 球员top50数据--文件：spi_NBA.py。基于request获取数据，使用xpath表达式提取数据。代码结构很清晰也比较短，适合新手学习。
 - 某宝商品数据自动化采集--文件：spi_Taobao.py
 - 哔哩哔哩视频信息自动化爬取--文件：spi_bilibili_rsc.py
 - JD商品评论自动化爬取--文件：spi_JD_comments.py
