@@ -17,7 +17,7 @@ from DataRecorder import Recorder
 
 # 参数设置
 port = 9222 # 需要接管的浏览器端口
-product_id = 100095622615 # 商品ID，可以更换成任意你想要的商品id
+product_id = 100091011046 # 商品ID，可以更换成任意你想要的商品id
 """
 100095622615 (手机)
 100091011046 (笔记本电脑)
@@ -26,7 +26,7 @@ product_id = 100095622615 # 商品ID，可以更换成任意你想要的商品id
 100015163135 (跑鞋)
 100085026467 (电饭煲)
 """
-pages = 5 # 最大页码
+pages = 100 # 最大页码（经过测试JD的评论最大加载似乎就是100页）
 save_or_not = True # 是否保存数据
 save_path = 'Spi_DataSave'
 file_path = save_path + f'\\{product_id}.xlsx'  # 文件路径
@@ -83,7 +83,7 @@ def pro(data:dict):
 # 辅助函数
 def random_sleep():
     """小睡一下"""
-    time.sleep(random.randint(3, 5)/10)  # 随机等待
+    time.sleep(random.randint(4, 6)/10)  # 随机等待
 
 
 # 主程序
