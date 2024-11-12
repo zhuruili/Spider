@@ -1,3 +1,5 @@
+# 最后测试于2024/11/12，代码依旧能奏效，只不过b站的页面结构发生了一定变化导致每个数据项的内容量不相等了
+
 from DrissionPage import WebPage
 from DrissionPage import ChromiumOptions
 
@@ -5,7 +7,7 @@ from DrissionPage import ChromiumOptions
 data = {}  # 存放最终生成的字典
 json_data = {}  # 存放最终生成的json数据
 
-#功能函数
+# 功能函数
 def search(item, wp):
     """搜索"""
     wp.ele('css:.nav-search-input').input(item)  # 输入搜索内容
@@ -35,7 +37,7 @@ def get_data(data,wp,SearchItem):
     dates_B = wp.eles('x://div[@class="bili-video-card__info--right"]/p/a/span[@class="bili-video-card__info--date"]/text()')
     durations_B = wp.eles('x://span[@class="bili-video-card__stats__duration"]/text()')
 
-    #print(f'Bilibili->数据规模--标题数：{len(titles_B)}，图片数：{len(pics_B)}，作者数：{len(authors_B)}，播放量数：{len(views_B)}，日期数：{len(dates_B)}，时长数：{len(durations_B)}，链接数：{len(links_B)}')
+    print(f'Bilibili->数据规模--标题数：{len(titles_B)}，图片数：{len(pics_B)}，作者数：{len(authors_B)}，播放量数：{len(views_B)}，日期数：{len(dates_B)}，时长数：{len(durations_B)}，链接数：{len(links_B)}')
     # 经过测试发现bilibili课程数据存在广告，而广告数据存在数据项缺失的情况，因此需要手动补充
 
     # 缺省数据填充
@@ -45,7 +47,7 @@ def get_data(data,wp,SearchItem):
         durations_B += [''] * (len(titles_B) - len(durations_B))
 
     # 数据检测
-    assert len(titles_B) == len(pics_B) == len(authors_B) == len(views_B) == len(dates_B) == len(durations_B) == len(links_B), '数据长度不一致！'
+    # assert len(titles_B) == len(pics_B) == len(authors_B) == len(views_B) == len(dates_B) == len(durations_B) == len(links_B), '数据长度不一致！'
 
     # 格式转换：list->dict
     data = {

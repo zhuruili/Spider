@@ -22,9 +22,10 @@ This repository records the simple code snippets I coded during my learning of w
 ### SimPrograms
 
 - [NBA球员top50](https://github.com/zhuruili/Spider/blob/main/SimPrograms/spi_NBA.py)  
-  NBA 球员top50数据--文件：spi_NBA.py。基于request获取数据，使用xpath表达式提取数据。代码结构很清晰也比较短，适合新手学习。
+  NBA 球员top50数据--文件：spi_NBA.py。基于requests获取数据，使用xpath表达式提取数据。代码结构很清晰也比较短，适合新手学习。
+- [b站视频信息](https://github.com/zhuruili/Spider/blob/main/SimPrograms/spi_bilibili_rsc.py)  
+  哔哩哔哩视频信息自动化爬取--文件：spi_bilibili_rsc.py。基于DrissionPage实现自动化数据抓取，只是一个很简单的Demo抓取的内容也只是搜索视频后看到的推送内容。
 - 某宝商品数据自动化采集--文件：spi_Taobao.py
-- 哔哩哔哩视频信息自动化爬取--文件：spi_bilibili_rsc.py
 - JD商品评论自动化爬取--文件：spi_JD_comments.py
 
 ### DataSaved
