@@ -8,12 +8,12 @@ import json
 from DataRecorder import Recorder
 
 # 参数设置
-USERNAME = "17307210087"
+USERNAME = "your username"  
 PASSWORD = "your pwd"
 SearchItem = input("请输入您想要的商品名称：")  # 搜索的商品名称
 json_data = {}  # 存放数据
 SaveOrNot = True  # 是否保存数据,如果不保存就填False
-SAVEPATH = "Novice\spider\Spi_DataSave"  # 数据保存路径
+SAVEPATH = "Spi_DataSave"  # 数据保存路径
 data_list = []  # 存放待保存数据
 Pages = 5  # 爬取页数
 

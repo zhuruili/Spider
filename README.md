@@ -29,7 +29,8 @@ This repository records the simple code snippets I coded during my learning of w
   MOOC视频信息爬取--文件：spi_MOOC_rsc.py。程序与‘b站视频信息’爬取程序类似，同样是一个基于DrissionPage实现的简单Demo。
 - [JD商品评论自动化爬取](https://github.com/zhuruili/Spider/blob/main/SimPrograms/spi_JD_comments.py)  
   JD商品评论自动化爬取--文件：spi_JD_comments.py。本爬虫项目和先前的简单例子有些区别。首先是它做了翻页的适配，实测JD商品评论最大加载量是100页，本程序几乎能够从头翻到尾。其次是通过提前手动登录的方式解决登陆/验证码等问题，随后再使用代码接管浏览器，不过这需要配置浏览器所占用的端口号。
-- 某宝商品数据自动化采集--文件：spi_Taobao.py
+- [某宝商品数据自动化采集](https://github.com/zhuruili/Spider/blob/main/SimPrograms/spi_Taobao.py)  
+  某宝商品数据自动化采集--文件：spi_Taobao.py。同样有翻页的适配，不过采取的是程序登陆，不过实测这样的效果似乎并不太好-_-。
 
 ### DataSaved
 
