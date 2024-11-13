@@ -1,3 +1,6 @@
+# 最后测试于2024/11/13，代码已经失效，查看网页后发现是由于MOOC网页的前端代码发生了变化
+# 但是虽然程序目前无法运行，但是通过无论它前端代码怎么改，本程序爬取的流程和思路是没有问题的，只需要根据新的前端代码修改定位元素的选择器代码就又可以运行了
+
 from DrissionPage import WebPage
 from DrissionPage import ChromiumOptions
 import json

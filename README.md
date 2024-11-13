@@ -25,6 +25,8 @@ This repository records the simple code snippets I coded during my learning of w
   NBA 球员top50数据--文件：spi_NBA.py。基于requests获取数据，使用xpath表达式提取数据。代码结构很清晰也比较短，适合新手学习。
 - [b站视频信息](https://github.com/zhuruili/Spider/blob/main/SimPrograms/spi_bilibili_rsc.py)  
   哔哩哔哩视频信息自动化爬取--文件：spi_bilibili_rsc.py。基于DrissionPage实现自动化数据抓取，只是一个很简单的Demo抓取的内容也只是搜索视频后看到的推送内容。
+- [MOOC视频信息](https://github.com/zhuruili/Spider/blob/main/SimPrograms/spi_MOOC_rsc.py)  
+  MOOC视频信息爬取--文件：spi_MOOC_rsc.py。程序与‘b站视频信息’爬取程序类似，同样是一个基于DrissionPage实现的简单Demo。
 - 某宝商品数据自动化采集--文件：spi_Taobao.py
 - JD商品评论自动化爬取--文件：spi_JD_comments.py
 
