@@ -33,7 +33,7 @@ This repository records the simple code snippets I coded during my learning of w
 - [JD商品评论自动化爬取](https://github.com/zhuruili/Spider/blob/main/SimPrograms/spi_JD_comments.py)  
   本爬虫项目和先前的简单例子有些区别。首先是它做了翻页的适配。其次是通过提前手动登录的方式解决登陆/验证码等问题，随后再使用代码接管浏览器，不过这需要配置浏览器所占用的端口号
 - [某宝商品数据自动化采集](https://github.com/zhuruili/Spider/blob/main/SimPrograms/spi_Taobao.py)  
-  py。同样有翻页的适配，不过采取的是程序登陆，不过实测这样的效果似乎并不太好 -_-
+  同样有翻页的适配，不过采取的是程序登陆，不过实测这样的效果似乎并不太好 -_-
 
 ### DataSaved
 
