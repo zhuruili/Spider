@@ -26,6 +26,8 @@ This repository records the simple code snippets I coded during my learning of w
   使用`urllib`简单模拟发送请求与登陆
 - [NBA球员top50](https://github.com/zhuruili/Spider/blob/main/SimPrograms/spi_NBA.py)  
   基于`requests`获取数据，使用`xpath`表达式提取数据
+- [当当网好评榜Top200](https://github.com/zhuruili/Spider/blob/main/SimPrograms/spi_dangdang.py)  
+  基于`requests`获取数据，使用正则表达式（`re`）提取数据并保存到文本文件
 - [b站视频信息](https://github.com/zhuruili/Spider/blob/main/SimPrograms/spi_bilibili_rsc.py)  
   基于`DrissionPage`实现自动化数据抓取，仅抓取搜索视频后看到的视频信息
 - [MOOC视频信息](https://github.com/zhuruili/Spider/blob/main/SimPrograms/spi_MOOC_rsc.py)  

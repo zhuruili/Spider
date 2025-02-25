@@ -1,0 +1,800 @@
+range: 81
+image: http://img3m7.ddimg.cn/13/11/25479247-1_l_1702981587.jpg
+title: 窄门（诺贝尔文学奖经典 读完《窄门》便读懂了纪德的一生 法文直译全新版 “你希望很快忘记吗？―我希望永远不忘”）
+recommend: 100%推荐
+author: 安德烈・纪德
+times: 1715次
+price: 22.50
+
+range: 82
+image: http://img3m9.ddimg.cn/43/30/25230589-1_l_1724293669.jpg
+title: 读读童谣和儿歌（共四册）一年级下册 语文教科书配套书目 人教版快乐读书吧
+recommend: 100%推荐
+author: 曹文轩
+times: 1463次
+price: 19.90
+
+range: 83
+image: http://img3m4.ddimg.cn/22/12/29755264-1_l_1738807992.jpg
+title: 我胆小如鼠 新版上市 余华献给被原生家庭伤害过的孩子的自传，看完从胆小怯懦变得松弛强大！读客当代文学文库
+recommend: 100%推荐
+author: 余华
+times: 71次
+price: 35.80
+
+range: 84
+image: http://img3m4.ddimg.cn/87/2/26509614-1_l_36.jpg
+title: 十万个为什么 快乐读书吧四年级下册推荐课外阅读青少版科普中小学生课外阅读指导丛书彩插无障碍阅读 28万读者热评！
+recommend: 100%推荐
+author: 伊林
+times: 2009次
+price: 11.40
+
+range: 85
+image: http://img3m8.ddimg.cn/63/11/26186058-1_l_1729234206.jpg
+title: 悉达多（心动的信号7彭高翁青雅同款，翻译家姜乙译本）【果麦经典】
+recommend: 100%推荐
+author: 赫尔曼・黑塞
+times: 1149次
+price: 16.00
+
+range: 86
+image: http://img3m8.ddimg.cn/3/19/11879520348-1_l_1733727664.jpg
+title: 漫画中华文化1000问当当自营抖音同款正版保证中国文学常识一本通古代传统一千问书儿童知识手册国学文学历史课外书世界百科大全中国文化1000问正版书籍
+recommend: 100%推荐
+author: 中国大陆
+times: 39次
+price: 25.80
+
+range: 87
+image: http://img3m8.ddimg.cn/5/14/27878108-1_l_1723007328.jpg
+title: 额尔古纳河右岸（茅盾文学奖获奖作品全集28）
+recommend: 100%推荐
+author: 迟子建
+times: 2730次
+price: 16.00
+
+range: 88
+image: http://img3m1.ddimg.cn/48/24/29578971-1_l_1729667430.jpg
+title: 国之脊梁――中国院士的科学人生百年
+recommend: 100%推荐
+author: 中国科学院学部
+times: 172次
+price: 39.00
+
+range: 89
+image: http://img3m3.ddimg.cn/26/23/29325113-1_l_6.jpg
+title: 病隙碎笔（光影纪念版，书内彩插作者亲摄照片12幅）史铁生充满灵性光辉的生命笔记，启迪无数读者的长篇哲思散文经典！
+recommend: 100%推荐
+author: 史铁生
+times: 474次
+price: 24.00
+
+range: 90
+image: http://img3m2.ddimg.cn/20/4/29841392-1_l_1737015665.jpg
+title: 虞初新志（中华经典名著全本全注全译-三全本  全2册）
+recommend: 100%推荐
+author: 邵颖涛
+times: 11次
+price: 71.00
+
+range: 91
+image: http://img3m3.ddimg.cn/21/5/29841393-1_l_1737015664.jpg
+title: 唐摭言（中华经典名著全本全注全译-三全本）
+recommend: 100%推荐
+author: 孔燕妮
+times: 11次
+price: 36.00
+
+range: 92
+image: http://img3m9.ddimg.cn/34/18/29845069-1_l_1739172480.jpg
+title: 共治天下：士族的崛起与衰落（进击的士族 旁落的皇权 跨越五百年的权力争斗史）
+recommend: 100%推荐
+author: 国家人文历史
+times: 11次
+price: 35.00
+
+range: 93
+image: http://img3m0.ddimg.cn/26/28/29194730-1_l_14.jpg
+title: 课文作家作品系列 文具的家 一年级下册 圣野著（语文教材配套、教材编者选编、名家经典阅读、课文作家面对面）人民教育出版社 团购电话:4001066666转6
+recommend: 100%推荐
+author: 圣野
+times: 216次
+price: 17.90
+
+range: 94
+image: http://img3m4.ddimg.cn/54/0/29786184-1_l_1732613342.jpg
+title: 真需求（商业女神梁宁图书作品/从有个想法，到真赚到钱，一本书全都说透了！/30年行业沉淀，商业领域年度之书）
+recommend: 100%推荐
+author: 梁宁
+times: 54次
+price: 59.00
+
+range: 95
+image: http://img3m5.ddimg.cn/30/21/29836155-1_l_1736834031.jpg
+title: 人生的逻辑(商界思想家冯仑2025新作，倾囊分享60余年人生心得。篇篇都是人生解药，30个主题说透人情事理。跟着冯叔，把人生事看透，把人生路越宽)
+recommend: 100%推荐
+author: 冯仑
+times: 16次
+price: 32.80
+
+range: 96
+image: http://img3m0.ddimg.cn/36/11/29124450-1_l_1706169716.jpg
+title: 演讲力：掌控人生关键时刻
+recommend: 100%推荐
+author: 许晋杭
+times: 26次
+price: 24.50
+
+range: 97
+image: http://img3m2.ddimg.cn/54/11/29302272-1_l_1727082135.jpg
+title: 非暴力沟通（修订版）
+recommend: 100%推荐
+author: 马歇尔
+times: 484次
+price: 35.88
+
+range: 98
+image: http://img3m8.ddimg.cn/89/4/29747708-1_l_1732788125.jpg
+title: 猫鱼 陈冲非虚构长篇作品
+recommend: 99.9%推荐
+author: 陈冲
+times: 83次
+price: 110.30
+
+range: 99
+image: http://img3m7.ddimg.cn/74/34/29845307-1_l_1739772777.jpg
+title: 地理中的中国史（人文篇）趣解地理志，秒懂中国史！全彩印刷+近20幅地图+17个地理专题……打磨三载钩沉千年，讲透历史地理共生逻辑
+recommend: 100%推荐
+author: 艾公子
+times: 10次
+price: 29.50
+
+range: 100
+image: http://img3m2.ddimg.cn/53/19/29839742-1_l_1736833936.jpg
+title: 北京四中语文课.《经典常谈》详解（语文八年级下册推荐阅读，北京四中名师为学生学生量身定制的图文详解版《经典常谈》，一书解决所有阅读难点）
+recommend: 100%推荐
+author: 朱自清
+times: 10次
+price: 24.90
+
+range: 81
+image: http://img3m7.ddimg.cn/13/11/25479247-1_l_1702981587.jpg
+title: 窄门（诺贝尔文学奖经典 读完《窄门》便读懂了纪德的一生 法文直译全新版 “你希望很快忘记吗？―我希望永远不忘”）
+recommend: 100%推荐
+author: 安德烈・纪德
+times: 1715次
+price: 22.50
+
+range: 82
+image: http://img3m9.ddimg.cn/43/30/25230589-1_l_1724293669.jpg
+title: 读读童谣和儿歌（共四册）一年级下册 语文教科书配套书目 人教版快乐读书吧
+recommend: 100%推荐
+author: 曹文轩
+times: 1463次
+price: 19.90
+
+range: 83
+image: http://img3m4.ddimg.cn/22/12/29755264-1_l_1738807992.jpg
+title: 我胆小如鼠 新版上市 余华献给被原生家庭伤害过的孩子的自传，看完从胆小怯懦变得松弛强大！读客当代文学文库
+recommend: 100%推荐
+author: 余华
+times: 71次
+price: 35.80
+
+range: 84
+image: http://img3m4.ddimg.cn/87/2/26509614-1_l_36.jpg
+title: 十万个为什么 快乐读书吧四年级下册推荐课外阅读青少版科普中小学生课外阅读指导丛书彩插无障碍阅读 28万读者热评！
+recommend: 100%推荐
+author: 伊林
+times: 2009次
+price: 11.40
+
+range: 85
+image: http://img3m8.ddimg.cn/63/11/26186058-1_l_1729234206.jpg
+title: 悉达多（心动的信号7彭高翁青雅同款，翻译家姜乙译本）【果麦经典】
+recommend: 100%推荐
+author: 赫尔曼・黑塞
+times: 1149次
+price: 16.00
+
+range: 86
+image: http://img3m8.ddimg.cn/3/19/11879520348-1_l_1733727664.jpg
+title: 漫画中华文化1000问当当自营抖音同款正版保证中国文学常识一本通古代传统一千问书儿童知识手册国学文学历史课外书世界百科大全中国文化1000问正版书籍
+recommend: 100%推荐
+author: 中国大陆
+times: 39次
+price: 25.80
+
+range: 87
+image: http://img3m8.ddimg.cn/5/14/27878108-1_l_1723007328.jpg
+title: 额尔古纳河右岸（茅盾文学奖获奖作品全集28）
+recommend: 100%推荐
+author: 迟子建
+times: 2730次
+price: 16.00
+
+range: 88
+image: http://img3m1.ddimg.cn/48/24/29578971-1_l_1729667430.jpg
+title: 国之脊梁――中国院士的科学人生百年
+recommend: 100%推荐
+author: 中国科学院学部
+times: 172次
+price: 39.00
+
+range: 89
+image: http://img3m3.ddimg.cn/26/23/29325113-1_l_6.jpg
+title: 病隙碎笔（光影纪念版，书内彩插作者亲摄照片12幅）史铁生充满灵性光辉的生命笔记，启迪无数读者的长篇哲思散文经典！
+recommend: 100%推荐
+author: 史铁生
+times: 474次
+price: 24.00
+
+range: 90
+image: http://img3m2.ddimg.cn/20/4/29841392-1_l_1737015665.jpg
+title: 虞初新志（中华经典名著全本全注全译-三全本  全2册）
+recommend: 100%推荐
+author: 邵颖涛
+times: 11次
+price: 71.00
+
+range: 91
+image: http://img3m3.ddimg.cn/21/5/29841393-1_l_1737015664.jpg
+title: 唐摭言（中华经典名著全本全注全译-三全本）
+recommend: 100%推荐
+author: 孔燕妮
+times: 11次
+price: 36.00
+
+range: 92
+image: http://img3m9.ddimg.cn/34/18/29845069-1_l_1739172480.jpg
+title: 共治天下：士族的崛起与衰落（进击的士族 旁落的皇权 跨越五百年的权力争斗史）
+recommend: 100%推荐
+author: 国家人文历史
+times: 11次
+price: 35.00
+
+range: 93
+image: http://img3m0.ddimg.cn/26/28/29194730-1_l_14.jpg
+title: 课文作家作品系列 文具的家 一年级下册 圣野著（语文教材配套、教材编者选编、名家经典阅读、课文作家面对面）人民教育出版社 团购电话:4001066666转6
+recommend: 100%推荐
+author: 圣野
+times: 216次
+price: 17.90
+
+range: 94
+image: http://img3m4.ddimg.cn/54/0/29786184-1_l_1732613342.jpg
+title: 真需求（商业女神梁宁图书作品/从有个想法，到真赚到钱，一本书全都说透了！/30年行业沉淀，商业领域年度之书）
+recommend: 100%推荐
+author: 梁宁
+times: 54次
+price: 59.00
+
+range: 95
+image: http://img3m5.ddimg.cn/30/21/29836155-1_l_1736834031.jpg
+title: 人生的逻辑(商界思想家冯仑2025新作，倾囊分享60余年人生心得。篇篇都是人生解药，30个主题说透人情事理。跟着冯叔，把人生事看透，把人生路越宽)
+recommend: 100%推荐
+author: 冯仑
+times: 16次
+price: 32.80
+
+range: 96
+image: http://img3m0.ddimg.cn/36/11/29124450-1_l_1706169716.jpg
+title: 演讲力：掌控人生关键时刻
+recommend: 100%推荐
+author: 许晋杭
+times: 26次
+price: 24.50
+
+range: 97
+image: http://img3m2.ddimg.cn/54/11/29302272-1_l_1727082135.jpg
+title: 非暴力沟通（修订版）
+recommend: 100%推荐
+author: 马歇尔
+times: 484次
+price: 35.88
+
+range: 98
+image: http://img3m8.ddimg.cn/89/4/29747708-1_l_1732788125.jpg
+title: 猫鱼 陈冲非虚构长篇作品
+recommend: 99.9%推荐
+author: 陈冲
+times: 83次
+price: 110.30
+
+range: 99
+image: http://img3m7.ddimg.cn/74/34/29845307-1_l_1739772777.jpg
+title: 地理中的中国史（人文篇）趣解地理志，秒懂中国史！全彩印刷+近20幅地图+17个地理专题……打磨三载钩沉千年，讲透历史地理共生逻辑
+recommend: 100%推荐
+author: 艾公子
+times: 10次
+price: 29.50
+
+range: 100
+image: http://img3m2.ddimg.cn/53/19/29839742-1_l_1736833936.jpg
+title: 北京四中语文课.《经典常谈》详解（语文八年级下册推荐阅读，北京四中名师为学生学生量身定制的图文详解版《经典常谈》，一书解决所有阅读难点）
+recommend: 100%推荐
+author: 朱自清
+times: 10次
+price: 24.90
+
+range: 81
+image: http://img3m7.ddimg.cn/13/11/25479247-1_l_1702981587.jpg
+title: 窄门（诺贝尔文学奖经典 读完《窄门》便读懂了纪德的一生 法文直译全新版 “你希望很快忘记吗？―我希望永远不忘”）
+recommend: 100%推荐
+author: 安德烈・纪德
+times: 1715次
+price: 22.50
+
+range: 82
+image: http://img3m9.ddimg.cn/43/30/25230589-1_l_1724293669.jpg
+title: 读读童谣和儿歌（共四册）一年级下册 语文教科书配套书目 人教版快乐读书吧
+recommend: 100%推荐
+author: 曹文轩
+times: 1463次
+price: 19.90
+
+range: 83
+image: http://img3m4.ddimg.cn/22/12/29755264-1_l_1738807992.jpg
+title: 我胆小如鼠 新版上市 余华献给被原生家庭伤害过的孩子的自传，看完从胆小怯懦变得松弛强大！读客当代文学文库
+recommend: 100%推荐
+author: 余华
+times: 71次
+price: 35.80
+
+range: 84
+image: http://img3m4.ddimg.cn/87/2/26509614-1_l_36.jpg
+title: 十万个为什么 快乐读书吧四年级下册推荐课外阅读青少版科普中小学生课外阅读指导丛书彩插无障碍阅读 28万读者热评！
+recommend: 100%推荐
+author: 伊林
+times: 2009次
+price: 11.40
+
+range: 85
+image: http://img3m8.ddimg.cn/63/11/26186058-1_l_1729234206.jpg
+title: 悉达多（心动的信号7彭高翁青雅同款，翻译家姜乙译本）【果麦经典】
+recommend: 100%推荐
+author: 赫尔曼・黑塞
+times: 1149次
+price: 16.00
+
+range: 86
+image: http://img3m8.ddimg.cn/3/19/11879520348-1_l_1733727664.jpg
+title: 漫画中华文化1000问当当自营抖音同款正版保证中国文学常识一本通古代传统一千问书儿童知识手册国学文学历史课外书世界百科大全中国文化1000问正版书籍
+recommend: 100%推荐
+author: 中国大陆
+times: 39次
+price: 25.80
+
+range: 87
+image: http://img3m8.ddimg.cn/5/14/27878108-1_l_1723007328.jpg
+title: 额尔古纳河右岸（茅盾文学奖获奖作品全集28）
+recommend: 100%推荐
+author: 迟子建
+times: 2730次
+price: 16.00
+
+range: 88
+image: http://img3m1.ddimg.cn/48/24/29578971-1_l_1729667430.jpg
+title: 国之脊梁――中国院士的科学人生百年
+recommend: 100%推荐
+author: 中国科学院学部
+times: 172次
+price: 39.00
+
+range: 89
+image: http://img3m3.ddimg.cn/26/23/29325113-1_l_6.jpg
+title: 病隙碎笔（光影纪念版，书内彩插作者亲摄照片12幅）史铁生充满灵性光辉的生命笔记，启迪无数读者的长篇哲思散文经典！
+recommend: 100%推荐
+author: 史铁生
+times: 474次
+price: 24.00
+
+range: 90
+image: http://img3m2.ddimg.cn/20/4/29841392-1_l_1737015665.jpg
+title: 虞初新志（中华经典名著全本全注全译-三全本  全2册）
+recommend: 100%推荐
+author: 邵颖涛
+times: 11次
+price: 71.00
+
+range: 91
+image: http://img3m3.ddimg.cn/21/5/29841393-1_l_1737015664.jpg
+title: 唐摭言（中华经典名著全本全注全译-三全本）
+recommend: 100%推荐
+author: 孔燕妮
+times: 11次
+price: 36.00
+
+range: 92
+image: http://img3m9.ddimg.cn/34/18/29845069-1_l_1739172480.jpg
+title: 共治天下：士族的崛起与衰落（进击的士族 旁落的皇权 跨越五百年的权力争斗史）
+recommend: 100%推荐
+author: 国家人文历史
+times: 11次
+price: 35.00
+
+range: 93
+image: http://img3m0.ddimg.cn/26/28/29194730-1_l_14.jpg
+title: 课文作家作品系列 文具的家 一年级下册 圣野著（语文教材配套、教材编者选编、名家经典阅读、课文作家面对面）人民教育出版社 团购电话:4001066666转6
+recommend: 100%推荐
+author: 圣野
+times: 216次
+price: 17.90
+
+range: 94
+image: http://img3m4.ddimg.cn/54/0/29786184-1_l_1732613342.jpg
+title: 真需求（商业女神梁宁图书作品/从有个想法，到真赚到钱，一本书全都说透了！/30年行业沉淀，商业领域年度之书）
+recommend: 100%推荐
+author: 梁宁
+times: 54次
+price: 59.00
+
+range: 95
+image: http://img3m5.ddimg.cn/30/21/29836155-1_l_1736834031.jpg
+title: 人生的逻辑(商界思想家冯仑2025新作，倾囊分享60余年人生心得。篇篇都是人生解药，30个主题说透人情事理。跟着冯叔，把人生事看透，把人生路越宽)
+recommend: 100%推荐
+author: 冯仑
+times: 16次
+price: 32.80
+
+range: 96
+image: http://img3m0.ddimg.cn/36/11/29124450-1_l_1706169716.jpg
+title: 演讲力：掌控人生关键时刻
+recommend: 100%推荐
+author: 许晋杭
+times: 26次
+price: 24.50
+
+range: 97
+image: http://img3m2.ddimg.cn/54/11/29302272-1_l_1727082135.jpg
+title: 非暴力沟通（修订版）
+recommend: 100%推荐
+author: 马歇尔
+times: 484次
+price: 35.88
+
+range: 98
+image: http://img3m8.ddimg.cn/89/4/29747708-1_l_1732788125.jpg
+title: 猫鱼 陈冲非虚构长篇作品
+recommend: 99.9%推荐
+author: 陈冲
+times: 83次
+price: 110.30
+
+range: 99
+image: http://img3m7.ddimg.cn/74/34/29845307-1_l_1739772777.jpg
+title: 地理中的中国史（人文篇）趣解地理志，秒懂中国史！全彩印刷+近20幅地图+17个地理专题……打磨三载钩沉千年，讲透历史地理共生逻辑
+recommend: 100%推荐
+author: 艾公子
+times: 10次
+price: 29.50
+
+range: 100
+image: http://img3m2.ddimg.cn/53/19/29839742-1_l_1736833936.jpg
+title: 北京四中语文课.《经典常谈》详解（语文八年级下册推荐阅读，北京四中名师为学生学生量身定制的图文详解版《经典常谈》，一书解决所有阅读难点）
+recommend: 100%推荐
+author: 朱自清
+times: 10次
+price: 24.90
+
+range: 81
+image: http://img3m7.ddimg.cn/13/11/25479247-1_l_1702981587.jpg
+title: 窄门（诺贝尔文学奖经典 读完《窄门》便读懂了纪德的一生 法文直译全新版 “你希望很快忘记吗？―我希望永远不忘”）
+recommend: 100%推荐
+author: 安德烈・纪德
+times: 1715次
+price: 22.50
+
+range: 82
+image: http://img3m9.ddimg.cn/43/30/25230589-1_l_1724293669.jpg
+title: 读读童谣和儿歌（共四册）一年级下册 语文教科书配套书目 人教版快乐读书吧
+recommend: 100%推荐
+author: 曹文轩
+times: 1463次
+price: 19.90
+
+range: 83
+image: http://img3m4.ddimg.cn/22/12/29755264-1_l_1738807992.jpg
+title: 我胆小如鼠 新版上市 余华献给被原生家庭伤害过的孩子的自传，看完从胆小怯懦变得松弛强大！读客当代文学文库
+recommend: 100%推荐
+author: 余华
+times: 71次
+price: 35.80
+
+range: 84
+image: http://img3m4.ddimg.cn/87/2/26509614-1_l_36.jpg
+title: 十万个为什么 快乐读书吧四年级下册推荐课外阅读青少版科普中小学生课外阅读指导丛书彩插无障碍阅读 28万读者热评！
+recommend: 100%推荐
+author: 伊林
+times: 2009次
+price: 11.40
+
+range: 85
+image: http://img3m8.ddimg.cn/63/11/26186058-1_l_1729234206.jpg
+title: 悉达多（心动的信号7彭高翁青雅同款，翻译家姜乙译本）【果麦经典】
+recommend: 100%推荐
+author: 赫尔曼・黑塞
+times: 1149次
+price: 16.00
+
+range: 86
+image: http://img3m8.ddimg.cn/3/19/11879520348-1_l_1733727664.jpg
+title: 漫画中华文化1000问当当自营抖音同款正版保证中国文学常识一本通古代传统一千问书儿童知识手册国学文学历史课外书世界百科大全中国文化1000问正版书籍
+recommend: 100%推荐
+author: 中国大陆
+times: 39次
+price: 25.80
+
+range: 87
+image: http://img3m8.ddimg.cn/5/14/27878108-1_l_1723007328.jpg
+title: 额尔古纳河右岸（茅盾文学奖获奖作品全集28）
+recommend: 100%推荐
+author: 迟子建
+times: 2730次
+price: 16.00
+
+range: 88
+image: http://img3m1.ddimg.cn/48/24/29578971-1_l_1729667430.jpg
+title: 国之脊梁――中国院士的科学人生百年
+recommend: 100%推荐
+author: 中国科学院学部
+times: 172次
+price: 39.00
+
+range: 89
+image: http://img3m3.ddimg.cn/26/23/29325113-1_l_6.jpg
+title: 病隙碎笔（光影纪念版，书内彩插作者亲摄照片12幅）史铁生充满灵性光辉的生命笔记，启迪无数读者的长篇哲思散文经典！
+recommend: 100%推荐
+author: 史铁生
+times: 474次
+price: 24.00
+
+range: 90
+image: http://img3m2.ddimg.cn/20/4/29841392-1_l_1737015665.jpg
+title: 虞初新志（中华经典名著全本全注全译-三全本  全2册）
+recommend: 100%推荐
+author: 邵颖涛
+times: 11次
+price: 71.00
+
+range: 91
+image: http://img3m3.ddimg.cn/21/5/29841393-1_l_1737015664.jpg
+title: 唐摭言（中华经典名著全本全注全译-三全本）
+recommend: 100%推荐
+author: 孔燕妮
+times: 11次
+price: 36.00
+
+range: 92
+image: http://img3m9.ddimg.cn/34/18/29845069-1_l_1739172480.jpg
+title: 共治天下：士族的崛起与衰落（进击的士族 旁落的皇权 跨越五百年的权力争斗史）
+recommend: 100%推荐
+author: 国家人文历史
+times: 11次
+price: 35.00
+
+range: 93
+image: http://img3m0.ddimg.cn/26/28/29194730-1_l_14.jpg
+title: 课文作家作品系列 文具的家 一年级下册 圣野著（语文教材配套、教材编者选编、名家经典阅读、课文作家面对面）人民教育出版社 团购电话:4001066666转6
+recommend: 100%推荐
+author: 圣野
+times: 216次
+price: 17.90
+
+range: 94
+image: http://img3m4.ddimg.cn/54/0/29786184-1_l_1732613342.jpg
+title: 真需求（商业女神梁宁图书作品/从有个想法，到真赚到钱，一本书全都说透了！/30年行业沉淀，商业领域年度之书）
+recommend: 100%推荐
+author: 梁宁
+times: 54次
+price: 59.00
+
+range: 95
+image: http://img3m5.ddimg.cn/30/21/29836155-1_l_1736834031.jpg
+title: 人生的逻辑(商界思想家冯仑2025新作，倾囊分享60余年人生心得。篇篇都是人生解药，30个主题说透人情事理。跟着冯叔，把人生事看透，把人生路越宽)
+recommend: 100%推荐
+author: 冯仑
+times: 16次
+price: 32.80
+
+range: 96
+image: http://img3m0.ddimg.cn/36/11/29124450-1_l_1706169716.jpg
+title: 演讲力：掌控人生关键时刻
+recommend: 100%推荐
+author: 许晋杭
+times: 26次
+price: 24.50
+
+range: 97
+image: http://img3m2.ddimg.cn/54/11/29302272-1_l_1727082135.jpg
+title: 非暴力沟通（修订版）
+recommend: 100%推荐
+author: 马歇尔
+times: 484次
+price: 35.88
+
+range: 98
+image: http://img3m8.ddimg.cn/89/4/29747708-1_l_1732788125.jpg
+title: 猫鱼 陈冲非虚构长篇作品
+recommend: 99.9%推荐
+author: 陈冲
+times: 83次
+price: 110.30
+
+range: 99
+image: http://img3m7.ddimg.cn/74/34/29845307-1_l_1739772777.jpg
+title: 地理中的中国史（人文篇）趣解地理志，秒懂中国史！全彩印刷+近20幅地图+17个地理专题……打磨三载钩沉千年，讲透历史地理共生逻辑
+recommend: 100%推荐
+author: 艾公子
+times: 10次
+price: 29.50
+
+range: 100
+image: http://img3m2.ddimg.cn/53/19/29839742-1_l_1736833936.jpg
+title: 北京四中语文课.《经典常谈》详解（语文八年级下册推荐阅读，北京四中名师为学生学生量身定制的图文详解版《经典常谈》，一书解决所有阅读难点）
+recommend: 100%推荐
+author: 朱自清
+times: 10次
+price: 24.90
+
+range: 81
+image: http://img3m7.ddimg.cn/13/11/25479247-1_l_1702981587.jpg
+title: 窄门（诺贝尔文学奖经典 读完《窄门》便读懂了纪德的一生 法文直译全新版 “你希望很快忘记吗？―我希望永远不忘”）
+recommend: 100%推荐
+author: 安德烈・纪德
+times: 1715次
+price: 22.50
+
+range: 82
+image: http://img3m9.ddimg.cn/43/30/25230589-1_l_1724293669.jpg
+title: 读读童谣和儿歌（共四册）一年级下册 语文教科书配套书目 人教版快乐读书吧
+recommend: 100%推荐
+author: 曹文轩
+times: 1463次
+price: 19.90
+
+range: 83
+image: http://img3m4.ddimg.cn/22/12/29755264-1_l_1738807992.jpg
+title: 我胆小如鼠 新版上市 余华献给被原生家庭伤害过的孩子的自传，看完从胆小怯懦变得松弛强大！读客当代文学文库
+recommend: 100%推荐
+author: 余华
+times: 71次
+price: 35.80
+
+range: 84
+image: http://img3m4.ddimg.cn/87/2/26509614-1_l_36.jpg
+title: 十万个为什么 快乐读书吧四年级下册推荐课外阅读青少版科普中小学生课外阅读指导丛书彩插无障碍阅读 28万读者热评！
+recommend: 100%推荐
+author: 伊林
+times: 2009次
+price: 11.40
+
+range: 85
+image: http://img3m8.ddimg.cn/63/11/26186058-1_l_1729234206.jpg
+title: 悉达多（心动的信号7彭高翁青雅同款，翻译家姜乙译本）【果麦经典】
+recommend: 100%推荐
+author: 赫尔曼・黑塞
+times: 1149次
+price: 16.00
+
+range: 86
+image: http://img3m8.ddimg.cn/3/19/11879520348-1_l_1733727664.jpg
+title: 漫画中华文化1000问当当自营抖音同款正版保证中国文学常识一本通古代传统一千问书儿童知识手册国学文学历史课外书世界百科大全中国文化1000问正版书籍
+recommend: 100%推荐
+author: 中国大陆
+times: 39次
+price: 25.80
+
+range: 87
+image: http://img3m8.ddimg.cn/5/14/27878108-1_l_1723007328.jpg
+title: 额尔古纳河右岸（茅盾文学奖获奖作品全集28）
+recommend: 100%推荐
+author: 迟子建
+times: 2730次
+price: 16.00
+
+range: 88
+image: http://img3m1.ddimg.cn/48/24/29578971-1_l_1729667430.jpg
+title: 国之脊梁――中国院士的科学人生百年
+recommend: 100%推荐
+author: 中国科学院学部
+times: 172次
+price: 39.00
+
+range: 89
+image: http://img3m3.ddimg.cn/26/23/29325113-1_l_6.jpg
+title: 病隙碎笔（光影纪念版，书内彩插作者亲摄照片12幅）史铁生充满灵性光辉的生命笔记，启迪无数读者的长篇哲思散文经典！
+recommend: 100%推荐
+author: 史铁生
+times: 474次
+price: 24.00
+
+range: 90
+image: http://img3m2.ddimg.cn/20/4/29841392-1_l_1737015665.jpg
+title: 虞初新志（中华经典名著全本全注全译-三全本  全2册）
+recommend: 100%推荐
+author: 邵颖涛
+times: 11次
+price: 71.00
+
+range: 91
+image: http://img3m3.ddimg.cn/21/5/29841393-1_l_1737015664.jpg
+title: 唐摭言（中华经典名著全本全注全译-三全本）
+recommend: 100%推荐
+author: 孔燕妮
+times: 11次
+price: 36.00
+
+range: 92
+image: http://img3m9.ddimg.cn/34/18/29845069-1_l_1739172480.jpg
+title: 共治天下：士族的崛起与衰落（进击的士族 旁落的皇权 跨越五百年的权力争斗史）
+recommend: 100%推荐
+author: 国家人文历史
+times: 11次
+price: 35.00
+
+range: 93
+image: http://img3m0.ddimg.cn/26/28/29194730-1_l_14.jpg
+title: 课文作家作品系列 文具的家 一年级下册 圣野著（语文教材配套、教材编者选编、名家经典阅读、课文作家面对面）人民教育出版社 团购电话:4001066666转6
+recommend: 100%推荐
+author: 圣野
+times: 216次
+price: 17.90
+
+range: 94
+image: http://img3m4.ddimg.cn/54/0/29786184-1_l_1732613342.jpg
+title: 真需求（商业女神梁宁图书作品/从有个想法，到真赚到钱，一本书全都说透了！/30年行业沉淀，商业领域年度之书）
+recommend: 100%推荐
+author: 梁宁
+times: 54次
+price: 59.00
+
+range: 95
+image: http://img3m5.ddimg.cn/30/21/29836155-1_l_1736834031.jpg
+title: 人生的逻辑(商界思想家冯仑2025新作，倾囊分享60余年人生心得。篇篇都是人生解药，30个主题说透人情事理。跟着冯叔，把人生事看透，把人生路越宽)
+recommend: 100%推荐
+author: 冯仑
+times: 16次
+price: 32.80
+
+range: 96
+image: http://img3m0.ddimg.cn/36/11/29124450-1_l_1706169716.jpg
+title: 演讲力：掌控人生关键时刻
+recommend: 100%推荐
+author: 许晋杭
+times: 26次
+price: 24.50
+
+range: 97
+image: http://img3m2.ddimg.cn/54/11/29302272-1_l_1727082135.jpg
+title: 非暴力沟通（修订版）
+recommend: 100%推荐
+author: 马歇尔
+times: 484次
+price: 35.88
+
+range: 98
+image: http://img3m8.ddimg.cn/89/4/29747708-1_l_1732788125.jpg
+title: 猫鱼 陈冲非虚构长篇作品
+recommend: 99.9%推荐
+author: 陈冲
+times: 83次
+price: 110.30
+
+range: 99
+image: http://img3m7.ddimg.cn/74/34/29845307-1_l_1739772777.jpg
+title: 地理中的中国史（人文篇）趣解地理志，秒懂中国史！全彩印刷+近20幅地图+17个地理专题……打磨三载钩沉千年，讲透历史地理共生逻辑
+recommend: 100%推荐
+author: 艾公子
+times: 10次
+price: 29.50
+
+range: 100
+image: http://img3m2.ddimg.cn/53/19/29839742-1_l_1736833936.jpg
+title: 北京四中语文课.《经典常谈》详解（语文八年级下册推荐阅读，北京四中名师为学生学生量身定制的图文详解版《经典常谈》，一书解决所有阅读难点）
+recommend: 100%推荐
+author: 朱自清
+times: 10次
+price: 24.90
+

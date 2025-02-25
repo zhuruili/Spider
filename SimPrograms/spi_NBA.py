@@ -8,7 +8,7 @@ from lxml import etree
 
 # 参数设置
 save_or_not = False # 是否保存数据，如果为False则直接输出到控制台
-save_path = 'Spi_DataSave\spi_NBA.text' # 保存路径
+save_path = 'Spi_DataSave\spi_NBA.txt' # 保存路径
 url = 'https://nba.hupu.com/stats/players'  # target url ,几乎没有反爬措施，对新手很友好
 
 # fake headers
