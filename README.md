@@ -15,6 +15,8 @@ This repository records the simple code snippets I coded during my learning of w
   记录自己学习爬虫所留下的简单程序，该文件夹下的爬虫程序的特点是'简单'，基本上都是一个Python文件直接运行即可。
 - [**SpiderPro**](https://github.com/zhuruili/Spider/tree/main/SpiderPro)  
   这部分内容对初学者来说会有一定难度，小白慎入。该文件夹下的爬虫程序是我在公司实习时候留下的相对简单的爬虫业务代码，基本上都是全站级别的数据采集，数据量大概在几万到几十万不等
+- [**utils**](https://github.com/zhuruili/Spider/tree/main/utils)  
+  做爬虫项目时可能用上的实用类工具代码
 - [**Spi_DataSave**](https://github.com/zhuruili/Spider/tree/main/Spi_DataSave)  
   保存部分爬取的内容，体量比较小的数据集我会同步到仓库，如有需要可以直接下载。
 
@@ -46,6 +48,11 @@ This repository records the simple code snippets I coded during my learning of w
 
 > [!Note]
 > 注意：这部分内容虽然是我在公司实习留下的代码，但是代码全程由我自己编写，并非公司向我提供，并且代码中所有有关公司的信息或者使用的资源均已被我移除，你可以放心的查看或学习其中的内容
+
+### utils
+
+- [查漏补缺](https://github.com/zhuruili/Spider/blob/main/utils/LeakFilling.py)  
+  在爬取大批量的数据时，即使你挂了代理，做了请求重试等多种措施，也依旧可能有缺漏的网页没访问到或者访问失败，你可以将这部分网页的链接保存，并使用这份工具文件快速解析你所保存的失败网页，并将结果输出在新的文件中，之后你只需要在生成的新文件中查找`200`的结果即可快速找到你之前项目中访问失败的链接中哪些其实仍然是可用的
 
 ### DataSaved
 
