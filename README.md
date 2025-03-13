@@ -47,6 +47,8 @@ This repository records the simple code snippets I coded during my learning of w
   基于`datetime`批量生成url、`requests`发送请求、`re`匹配内容、`pymysql`连接数据库并保存数据、`loguru`输出日志信息、`threading`与`ThreadPoolExecutor`控制多线程爬取、`time`控制休眠。本代码成功爬取了目标站点从2010年到2025年3月的全部内容，合计约36w条记录
 - [中国教育报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_jyb.py)  
   中国教育报信息采集，整体上与`光明日报`项目类似，优化了部分代码细节
+- [中国旅游报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_lyb.py)  
+  在前两代报刊项目中发现了即使挂代理依旧存在网络错误导致数据缺失的问题。对此，本项目新增了对每日、每版次链接的访问重试，并增加了将多次重试请求依旧访问失败的链接保存到`Logs`下的日志文件的功能，方便项目跑完之后的数据校对与缺失填补
 
 > [!Note]
 > 注意：这部分内容虽然是我在公司实习留下的代码，但是代码全程由我自己编写，并非公司向我提供，并且代码中所有有关公司的信息或者使用的资源均已被我移除，你可以放心的查看或学习其中的内容
