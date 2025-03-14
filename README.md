@@ -49,6 +49,8 @@ This repository records the simple code snippets I coded during my learning of w
   中国教育报信息采集，整体上与`光明日报`项目类似，优化了部分代码细节
 - [中国旅游报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_lyb.py)  
   在前两代报刊项目中发现了即使挂代理依旧存在网络错误导致数据缺失的问题。对此，本项目新增了对每日、每版次链接的访问重试，并增加了将多次重试请求依旧访问失败的链接保存到`Logs`下的日志文件的功能，方便项目跑完之后的数据校对与缺失填补
+- [美术报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_msb.py)  
+  和`中国旅游报`项目大体类似
 
 > [!Note]
 > 注意：这部分内容虽然是我在公司实习留下的代码，但是代码全程由我自己编写，并非公司向我提供，并且代码中所有有关公司的信息或者使用的资源均已被我移除，你可以放心的查看或学习其中的内容
