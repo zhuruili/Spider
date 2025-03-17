@@ -5,7 +5,7 @@
 
 This repository records the simple code snippets I coded during my learning of web crawling techniques.Some simple crawler code will be updated from time to time, I hope it can help you，good luck！
 
-仓库记录着我在学习爬虫技术过程中留下的简单代码段。会不定时更新，希望能帮到你。
+仓库记录着我在学习爬虫技术过程中留下的代码段。会不定时更新，希望能帮到你。
 
 ---
 
@@ -17,12 +17,16 @@ This repository records the simple code snippets I coded during my learning of w
   这部分内容对初学者来说会有一定难度，小白慎入。该文件夹下的爬虫程序是我在公司实习时候留下的相对简单的爬虫业务代码，基本上都是全站级别的数据采集，数据量大概在几万到几十万不等
 - [**utils**](https://github.com/zhuruili/Spider/tree/main/utils)  
   做爬虫项目时可能用上的实用类工具代码
+- [**tutorial**](https://github.com/zhuruili/Spider/tree/main/tutorial)  
+  爬虫相关知识点的简明教程与知识补充
 - [**Spi_DataSave**](https://github.com/zhuruili/Spider/tree/main/Spi_DataSave)  
   保存部分爬取的内容，体量比较小的数据集我会同步到仓库，如有需要可以直接下载。
 
 ## 内容目录
 
 ### SimPrograms
+
+这部分的内容比较杂，相当于是借助一个个简单的案例来初步熟悉爬虫到底在干什么、它的流程一般是怎样的、基于请求的爬虫和基于自动化的爬虫大概分别是怎么做的等等
 
 - [urllib模拟登陆](https://github.com/zhuruili/Spider/blob/main/SimPrograms/package_urllib.py)  
   使用`urllib`简单模拟发送请求与登陆
@@ -43,6 +47,11 @@ This repository records the simple code snippets I coded during my learning of w
 
 ### SpiderPro
 
+我在实习期留下的代码，虽然算不上很成熟，但是与我之前入门时候依葫芦画瓢写下的半吊子代码相比还是有很大的改进，比如多了很多异常处理，做了很多优化来提高代码的效率，并且在经过一个个相似的项目的训练后能够逐渐形成一套属于自己的爬虫模板，对比刚开始的我也算有了不少提高
+
+> [!Note]
+> 注意：这部分内容虽然是我在公司实习留下的代码，但是代码全程由我自己编写，并非公司向我提供，并且代码中所有有关公司的信息或者使用的资源均已被我移除，你可以放心的查看或学习其中的内容
+
 - [光明日报全站采集](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_gmw.py)  
   基于`datetime`批量生成url、`requests`发送请求、`re`匹配内容、`pymysql`连接数据库并保存数据、`loguru`输出日志信息、`threading`与`ThreadPoolExecutor`控制多线程爬取、`time`控制休眠。本代码成功爬取了目标站点从2010年到2025年3月的全部内容，合计约36w条记录
 - [中国教育报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_jyb.py)  
@@ -52,9 +61,6 @@ This repository records the simple code snippets I coded during my learning of w
 - [美术报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_msb.py)  
   和`中国旅游报`项目大体类似
 
-> [!Note]
-> 注意：这部分内容虽然是我在公司实习留下的代码，但是代码全程由我自己编写，并非公司向我提供，并且代码中所有有关公司的信息或者使用的资源均已被我移除，你可以放心的查看或学习其中的内容
-
 ### utils
 
 - [请求测试](https://github.com/zhuruili/Spider/blob/main/utils/curl_test.py)  
@@ -63,6 +69,13 @@ This repository records the simple code snippets I coded during my learning of w
   快速测试你的正则表达式能否提取到你想要的数据，而不用每修改一次正则就重新跑一遍自己的完整项目来调试，代码非常简单但是有时候真的能节省很多时间
 - [查漏补缺](https://github.com/zhuruili/Spider/blob/main/utils/LeakFilling.py)  
   在爬取大批量的数据时，即使你挂了代理，做了请求重试等多种措施，也依旧可能有缺漏的网页没访问到或者访问失败，你可以将这部分网页的链接保存，并使用这份工具文件快速解析你所保存的失败网页，并将结果输出在新的文件中，之后你只需要在生成的新文件中查找`200`的结果即可快速找到你之前项目中访问失败的链接中哪些其实仍然是可用的
+
+### tutorial
+
+这并不是一个教程仓库，但是当我开始稍微系统性的接触爬虫知识的时候我发现自己在知识储备上有很多的不足并且存在一些认知盲区。以往我只是根据一些简单的爬虫案例教程来入门，这导致我对很多知识其实是一知半解的，所以我希望留下一些以知识点为导向的简单代码段作为简明教程
+
+- [XPath函数](https://github.com/zhuruili/Spider/blob/main/tutorial/XPath_function.py)  
+  我曾经天真的认为形如`//div/p/text()`就是`XPath`的全部了，但是它居然还支持各种各样的函数来达到数据灵活提取的目的
 
 ### DataSaved
 
