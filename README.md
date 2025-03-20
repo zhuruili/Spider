@@ -58,7 +58,7 @@ This repository records the simple code snippets I coded during my learning of w
   中国教育报信息采集，整体上与`光明日报`项目类似，优化了部分代码细节
 - [中国旅游报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_lyb.py)  
   在前两代报刊项目中发现了即使挂代理依旧存在网络错误导致数据缺失的问题。对此，本项目新增了对每日、每版次链接的访问重试，并增加了将多次重试请求依旧访问失败的链接保存到`Logs`下的日志文件的功能，方便项目跑完之后的数据校对与缺失填补
-- [美术报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_msb.py)  
+- [美术报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_msb.py) | [钱江晚报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_qjwb.py)  
   和`中国旅游报`项目大体类似
 - [扬子晚报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_yzwb.py)  
   这个报纸相对于先前的报纸更新一些所以结构略有不同，但使用的代码大体仍然类似。比较特别的一点是在发送请求时你需要注意`headers`中的`if-modified-since`参数，起初由于这个参数的问题导致访问结果为`304`
