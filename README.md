@@ -62,6 +62,8 @@ This repository records the simple code snippets I coded during my learning of w
   和`中国旅游报`项目大体类似
 - [扬子晚报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_yzwb.py)  
   这个报纸相对于先前的报纸更新一些所以结构略有不同，但使用的代码大体仍然类似。比较特别的一点是在发送请求时你需要注意`headers`中的`if-modified-since`参数，起初由于这个参数的问题导致访问结果为`304`
+- [今晚报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_jinwanbao.py)  
+  在这份报纸中你并不能在最后的文章详情页界面获取所有的信息，其中的版面信息需要在使用多线程的同时传入包含版面信息的参数，这里使用`functools`中的`partial`进行参数传递，同时修改了并发逻辑，但也一定程度上降低了爬取的速率
 
 ### utils
 
