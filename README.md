@@ -71,6 +71,9 @@ This repository records the simple code snippets I coded during my learning of w
   最原始而简单的请求代码，你可以在抓取你需要的数据包后通过复制该数据包的`Copy as cURL(bash)`到例如`Curl`或`Json`这类格式规范化网站来快速得到一个基本的请求模板，你可以通过注释来一步步检测究竟是什么参数导致了访问的失败，在本示例代码中是`if-modified-since`参数影响了访问导致返回`304`响应码
 - [正则测试](https://github.com/zhuruili/Spider/blob/main/utils/re_test.py)  
   快速测试你的正则表达式能否提取到你想要的数据，而不用每修改一次正则就重新跑一遍自己的完整项目来调试，代码非常简单但是有时候真的能节省很多时间
+- [数据格式化](https://github.com/zhuruili/Spider/blob/main/utils/format_scripts.py)  
+  在得到原始数据后常常需要对数据进行一些常规的清洗, 有许多处理其实是共通的, 例如删除文本中的`HTML`标签或
+  空白符等等, 为了避免每次写脚本都要重写这些函数, 可以将它们集中到特定的脚本中当作包来调用
 - [查漏补缺](https://github.com/zhuruili/Spider/blob/main/utils/LeakFilling.py)  
   在爬取大批量的数据时，即使你挂了代理，做了请求重试等多种措施，也依旧可能有缺漏的网页没访问到或者访问失败，你可以将这部分网页的链接保存，并使用这份工具文件快速解析你所保存的失败网页，并将结果输出在新的文件中，之后你只需要在生成的新文件中查找`200`的结果即可快速找到你之前项目中访问失败的链接中哪些其实仍然是可用的
 
