@@ -54,14 +54,14 @@ This repository records the simple code snippets I coded during my learning of w
 
 - [光明日报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_gmw.py) | [中国教育报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_jyb.py)  
   基于`datetime`批量生成url、`requests`发送请求、`re`匹配内容、`pymysql`连接数据库并保存数据、`loguru`输出日志信息、`threading`与`ThreadPoolExecutor`控制多线程爬取、`time`控制休眠。
-- [中国旅游报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_lyb.py)  
+- [中国旅游报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_lyb.py) | [美术报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_msb.py) | [钱江晚报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_qjwb.py) | [永康日报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_ykrb.py)  
   在前两代报刊项目中发现了即使挂代理依旧存在网络错误导致数据缺失的问题。对此，本项目新增了对每日、每版次链接的访问重试，并增加了将多次重试请求依旧访问失败的链接保存到`Logs`下的日志文件的功能，方便项目跑完之后的数据校对与缺失填补
-- [美术报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_msb.py) | [钱江晚报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_qjwb.py) | [永康日报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_ykrb.py)  
-  和`中国旅游报`项目大体类似
 - [扬子晚报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_yzwb.py)  
   这个报纸相对于先前的报纸更新一些所以结构略有不同，但使用的代码大体仍然类似。比较特别的一点是在发送请求时你需要注意`headers`中的`if-modified-since`参数，起初由于这个参数的问题导致访问结果为`304`
 - [今晚报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_jinwanbao.py)  
   在这份报纸中你并不能在最后的文章详情页界面获取所有的信息，其中的版面信息需要在使用多线程的同时传入包含版面信息的参数，这里使用`functools`中的`partial`进行参数传递，同时修改了并发逻辑，但也一定程度上降低了爬取的速率
+- [中国农村信用合作报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_chinanshw.py)  
+  优化了`今晚报`项目中存在的传参逻辑不当导致爬取速率降低的问题，在这版代码中函数的返回值不仅仅是个包含一系列链接的列表，而是包含多种数据的元组构成的列表，使得在上级页面获得的信息能够在不损失爬取速率的情况下传递到下级页面的爬取。并且在提取数据时综合使用了`re`和`xpath`
 - [科普时报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_kpsb.py)  
   针对有些报纸并不是每天都出版的问题，采用寻找出版日期接口的方式来提高访问的效率，例如在这个报纸中有效日期藏在`period.xml`中，通过它得到具体的出刊时间，从而大幅减少无效的请求，提高效率
 - [中国政府采购报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_zcb.py)  
