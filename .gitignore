@@ -5,3 +5,4 @@ Resources/
 .vscode
 __pycache__
 sys_path_append.json
+spi_zlb.py
