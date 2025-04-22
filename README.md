@@ -7,6 +7,9 @@ This repository records the simple code snippets I coded during my learning of w
 
 仓库记录着我在学习爬虫技术过程中留下的代码段。会不定时更新，希望能帮到你。
 
+> [!Important]
+> 警告：仓库代码仅供学习交流使用，不可用于非法用途！
+
 ---
 
 ## 文件说明
@@ -94,5 +97,5 @@ This repository records the simple code snippets I coded during my learning of w
 
 ---
 
-> [!Important]
-> 警告：仓库代码仅供学习交流使用，不可用于非法用途！
+> [!Tip]
+> 感谢你造访我的仓库，或许此时我已经不再是数据采集实习生了，但是爬虫技术在我上学和实习期间还是帮了我不少，因此我依旧会时不时更新些新内容
