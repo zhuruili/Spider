@@ -62,8 +62,8 @@ This repository records the simple code snippets I coded during my learning of w
   在这份报纸中你并不能在最后的文章详情页界面获取所有的信息，其中的版面信息需要在使用多线程的同时传入包含版面信息的参数，这里使用`functools`中的`partial`进行参数传递，同时修改了并发逻辑，但也一定程度上降低了爬取的速率
 - [中国农村信用合作报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_chinanshw.py)  
   优化了`今晚报`项目中存在的传参逻辑不当导致爬取速率降低的问题，在这版代码中函数的返回值不仅仅是个包含一系列链接的列表，而是包含多种数据的元组构成的列表，使得在上级页面获得的信息能够在不损失爬取速率的情况下传递到下级页面的爬取。并且在提取数据时综合使用了`re`和`xpath`
-- [科普时报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_kpsb.py)  
-  针对有些报纸并不是每天都出版的问题，采用寻找出版日期接口的方式来提高访问的效率，例如在这个报纸中有效日期藏在`period.xml`中，通过它得到具体的出刊时间，从而大幅减少无效的请求，提高效率
+- [科普时报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_kpsb.py) | [中国质量报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_zlb.py)  
+  针对有些报纸并不是每天都出版的问题，采用寻找出版日期接口的方式来提高访问的效率，例如有效日期可能藏在`period.xml`文件或者某段JS代码中，通过它得到具体的出刊时间，从而大幅减少无效的请求，提高效率
 - [交通安全周刊](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_jtaqzk.py) | [人民公安报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_rmga.py)  
   针对某些内容链接又臭又长，不好找入口规律的问题，在这里利用了页面的重定向功能来让目标站点主动指引我们到想要的页面中，一定程度上避免在复杂的链接找规律中浪费时间
 - [中国政府采购报](https://github.com/zhuruili/Spider/blob/main/SpiderPro/spi_zcb.py)  
